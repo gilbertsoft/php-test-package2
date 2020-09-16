@@ -7,6 +7,6 @@
     },
     "replace": {
         "gilbertsoft/test-package1": "*",
-        "typo3/cms-workspaces": "*"
+        "typo3/cms-context-help": "*"
     }
 }
