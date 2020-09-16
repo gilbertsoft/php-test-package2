@@ -6,7 +6,6 @@
         "typo3/cms-core": "^123.456.*"
     },
     "replace": {
-        "gilbertsoft/test-package1": "*",
-        "typo3/cms-context-help": "*"
+        "gilbertsoft/test-package1": "*"
     }
 }
