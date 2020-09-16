@@ -1,0 +1,11 @@
+{
+    "name": "gilbertsoft/test-package2",
+    "type": "typo3-cms-extension",
+    "license": "MIT",
+    "require": {
+        "typo3/cms-core": "^10.4.*"
+    },
+    "replace": {
+        "gilbertsoft/test-package1": "*"
+    }
+}
